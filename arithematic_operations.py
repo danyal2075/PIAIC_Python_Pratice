@@ -5,6 +5,7 @@ print("Mutiplication : ",num1 * num2)
 print("Addition : ",num1 + num2)
 print("Subtarction : ",num1 - num2)
 print("Division : ",num1 / num2)
+print("Power : ", num1**num2)
 print(num1 * (10 - (20 + 30)))  # brackets  used for prefernce.
 print ("Reminder : ", 7 % 5)
 
