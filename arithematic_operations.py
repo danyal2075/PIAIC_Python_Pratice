@@ -8,7 +8,7 @@ print("Division : ",num1 / num2)
 print(num1 * (10 - (20 + 30)))  # brackets  used for prefernce.
 print ("Reminder : ", 7 % 5)
 
-# Increment: 
+                                            # Increment: 
 
 print("This is used for increment")
 # We can also take a variable and then increment in the original value
@@ -24,6 +24,6 @@ salary -= incre
 salary *= incre
 # This means salary = salary * incre
 
-salary /= incre 
+salary /= incre   
 # This means salary = salary / incre
 print("The new salary is : ", salary)
