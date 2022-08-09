@@ -24,5 +24,5 @@ print("Tuple With one item : ", t_oneitem)
 print("")
 print("**************************************")
 print("2")
-print("Tuple Constructor : ",len(capital))
+print("Length of tuple : ",len(capital))
 
