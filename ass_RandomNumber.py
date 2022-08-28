@@ -56,7 +56,8 @@ print("Sum is : ",sum(li))
 # Intersection
 
 _intersection  = set(org_list).intersection(set(li))
-print(f"These are the common values : {_intersection} \nThe length is : {len(set(org_list).intersection(set(li)))}")
-
+_difference = set(org_list).difference(set(li))
+print(f"These are the common values : {_intersection} \nThe length is : {len(_intersection)}")
+print(f"This is the difference : {_difference} \n The length is : {len(_difference)} ")
 
 
