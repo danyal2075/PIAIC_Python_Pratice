@@ -47,6 +47,7 @@ print("")
 print("**************************************")
 print("4")
 for i in range(6):
+    
     print("Code inside this loop will run six times")
 print("")
 for i in range(2,6):

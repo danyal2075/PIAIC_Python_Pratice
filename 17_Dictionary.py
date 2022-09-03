@@ -45,7 +45,7 @@ for i in info:
     print("Record", info[i])
 
 print("***************")
-for i in info.values():
+for i in info.values():   # This function returns List
     print("Record", i)
 print("Record", info.values())
 print("***************")
@@ -53,6 +53,6 @@ for i in info.keys():
     print("Record", i)
 print("Record", info.keys())
 print("***************")
-for i in info.items():          # this convert dictionary into the tuple
+for i in info.items():          # This function converts dictionary into the list and inside list it makes tuple 
     print("Record", i)
 print("Record", info.items())

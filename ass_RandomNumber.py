@@ -61,3 +61,7 @@ print(f"These are the common values : {_intersection} \nThe length is : {len(_in
 print(f"This is the difference : {_difference} \n The length is : {len(_difference)} ")
 
 
+
+
+        
+ 
