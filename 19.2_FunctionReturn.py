@@ -4,7 +4,7 @@ def dictionary(**numbers):
     for i in numbers.values():
         sum += i
         #sum += sum
-    return numbers , sum
+    return sum
 
 
 val_retrun =  dictionary(n1 = 10, n2 = 20, n3 = 20)
